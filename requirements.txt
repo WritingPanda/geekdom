@@ -11,3 +11,4 @@ pusher==0.6
 python-dateutil==2.1
 six==1.1.0
 wsgiref==0.1.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
